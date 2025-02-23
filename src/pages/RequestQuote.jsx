@@ -161,7 +161,7 @@ const RequestQuote = () => {
 
     setDisableBtn(true);
     const formData = new FormData(quotingForm.current);
-    formData.append("heading", "New Quoting request for Acorn Tire & Auto");
+    formData.append("heading", "New Quoting request for Mimidas Tire & Auto");
     formData.append("template", "quote");
     formData.set("sendEmailsAndPromo", quotingData.sendEmailsAndPromo);
     formData.append("firstAppointmentDate", quotingData?.firstAppointmentDate);

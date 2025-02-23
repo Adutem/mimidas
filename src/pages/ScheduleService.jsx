@@ -155,7 +155,7 @@ const ScheduleService = () => {
 
     setDisableAll(true);
     const formData = new FormData(scheduleForm.current);
-    formData.append("heading", "New email for Acorn Tire & Auto");
+    formData.append("heading", "New email for Mimidas Tire & Auto");
     formData.append("template", "service");
     formData.append("firstAppointmentDate", serviceData?.firstAppointmentDate);
     formData.append(

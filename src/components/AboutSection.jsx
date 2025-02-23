@@ -11,9 +11,9 @@ const AboutSection = () => {
           <ImageContainer>
             <WelcomeImage src={welcomeImage} />
           </ImageContainer>
-          <SectionHeading>Acorn Tire & Auto</SectionHeading>
+          <SectionHeading>Mimidas Tire & Auto</SectionHeading>
           <SectionPara>
-            Welcome to Acorn Tire & Auto, your premier choice for comprehensive
+            Welcome to Mimidas Tire & Auto, your premier choice for comprehensive
             auto services and tire solutions in Michigan. Our goal is to ensure
             your utmost satisfaction by providing unparalleled value for your
             investment. We pride ourselves on offering top-notch service,

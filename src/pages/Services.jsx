@@ -56,7 +56,7 @@ const Services = () => {
         {/* <NormalPara>
           We are one of the leading auto repair shops serving customers in, 591
           S Lapeer Road, Lake Orion, MI and surrounding areas. All automotive
-          repair and mechanic services at Acorn Tire & Auto are performed by
+          repair and mechanic services at Mimidas Tire & Auto are performed by
           highly qualified mechanics. Our mechanic shop works on numerous
           vehicles with the use of quality truck and car repair equipment.
           Whether you drive a passenger car, medium sized truck, mini-van, or

@@ -26,7 +26,7 @@ const CarCareTips = () => {
           the road to long vehicle life.
         </NormalPara>
         <NormalPara>
-          At Acorn Tire & Auto, we want our customers in La Crosse, WI and
+          At Mimidas Tire & Auto, we want our customers in La Crosse, WI and
           surrounding areas to get the most out of their vehicles. Follow the
           car maintenance tips below to keep your vehicle around longer.
         </NormalPara>
@@ -122,7 +122,7 @@ const CarCareTips = () => {
           unexpected failures. Proper vehicle maintenance can save you money in
           the long run and improve your safety and the safety of your
           passengers. Stay on top of routine vehicle maintenance and visit at
-          Acorn Tire & Auto in Lake Orion, when your vehicle needs to be
+          Mimidas Tire & Auto in Lake Orion, when your vehicle needs to be
           serviced by our experienced mechanics.
         </NormalPara>
         <OptimizedButtonLink to={"/find-us/contact"}>

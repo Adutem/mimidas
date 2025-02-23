@@ -39,7 +39,7 @@ const LocationComp = () => {
             {/* <NormalPara
               style={{ fontSize: "0.9rem", margin: 0, fontWeight: "bold" }}
             >
-              Acorn Tire & Auto
+              Mimidas Tire & Auto
             </NormalPara>
             <AddressComp>591 S Lapeer Road, Lake Orion, MI 48362</AddressComp>
             <TelLink href="tel:+248-693-7979">248-693-7979</TelLink>

@@ -20,11 +20,11 @@ const TireCareTips = () => {
           economy. Proper tire care and maintenance are, therefore, very
           necessary to ensure your tires stay effective. This care and
           maintenance can be easily done by your personal attention and with the
-          help of our professional experts at Acorn Tire & Auto. Take care of
+          help of our professional experts at Mimidas Tire & Auto. Take care of
           your tires, and they’ll reward you with better gas mileage and
           improved handling and performance. Your tires are all that stand
           between the road and your car, which is why it’s important to stay up
-          to date on their maintenance. At Acorn Tire & Auto, we want our
+          to date on their maintenance. At Mimidas Tire & Auto, we want our
           customers to remain on top of tire performance and adhere to
           maintenance schedules outlined in their owner’s manual.
         </NormalPara>
@@ -79,7 +79,7 @@ const TireCareTips = () => {
           vibration, reduced wear on your tires, and better mileage.
         </NormalPara>
         <RedBackgroundHeading>
-          Acorn Tire & Auto Offers Quality Tire Services and Tire Maintenance
+          Mimidas Tire & Auto Offers Quality Tire Services and Tire Maintenance
         </RedBackgroundHeading>
         <NormalPara>
           Take these tips and suggestions into account while maintaining your
@@ -91,7 +91,7 @@ const TireCareTips = () => {
           Maintaining your tires by checking tire pressure, rotating your tires,
           replacing your tires when needed, and ensuring that your tires are
           well-balanced are essential for your vehicle’s performance and
-          reliability. At Acorn Tire & Auto , we are here for all your tire
+          reliability. At Mimidas Tire & Auto , we are here for all your tire
           services and repairs. Schedule an appointment today and let us care
           for your tires!
         </NormalPara>

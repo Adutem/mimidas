@@ -115,7 +115,7 @@ const Jobs = () => {
     }
     setDisableAll(true);
     const formData = new FormData(jobForm.current);
-    formData.append("heading", "New email for Acorn Tire & Auto");
+    formData.append("heading", "New email for Mimidas Tire & Auto");
     formData.append("template", "job");
     submitEmail(
       formData,
@@ -135,13 +135,13 @@ const Jobs = () => {
       <RedBackgroundHeading>Join our team</RedBackgroundHeading>
       <Container style={{ margin: "2rem auto" }}>
         <Para>
-          Acorn Tire & Auto is always looking for top talent to join our team.
+          Mimidas Tire & Auto is always looking for top talent to join our team.
           If you are a quality conscious worker committed to producing the kind
           of results our customers have come to expect over the years, we want
           to talk to you! We offer a great work environment committed to quality
           and reward our team members accordingly. Continuing education
           opportunities and ongoing training are just a few of the advantages we
-          offer. Contact us today to learn more about job opportunities at Acorn
+          offer. Contact us today to learn more about job opportunities at Mimidas
           Tire & Auto!
         </Para>
         <SectionPara style={{ textAlign: "left" }}>

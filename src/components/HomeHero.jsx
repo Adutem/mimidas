@@ -1,9 +1,9 @@
 import React from "react";
 import styled from "styled-components";
-import heroImage from "../assets/Autos-lastest-logo.png";
-// import heroImage from "../assets/acorn-logo.png";
+// import heroImage from "../assets/Autos-lastest-logo.png";
+import heroImage from "../assets/mimidas-logo.png";
 import tireImage from "../assets/image-3.jpg";
-import heroVideo from "../assets/acorn-video.mp4";
+import heroVideo from "../assets/heroVideo.mp4";
 
 const HomeHero = ({ isHomepage, isAdmin }) => {
   return (
@@ -76,7 +76,7 @@ const HeroContainer = styled.div`
 `;
 
 const HeroImageContainer = styled.div`
-  max-height: 400px;
+  max-height: 600px;
   width: 90%;
   max-width: 450px;
   // position: absolute;
@@ -95,6 +95,7 @@ const VideoContainer = styled.div`
     padding: 1rem;
     padding-bottom: 0;
     background: #f1f1f1;
+    height: 100%;
   }
 `;
 
@@ -102,7 +103,7 @@ const HeroVideoContainer = styled.video`
   // height: 100%;
   width: 100%;
   object-fit: cover;
-  min-height: 100px;
+  min-height: 500px;
   max-height: 600px;
 `;
 

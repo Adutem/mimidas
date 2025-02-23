@@ -20,7 +20,7 @@ const About = () => {
           <DaysOfOperationComponent />
         </>
       )}
-      <RedBackgroundHeading>About Acorn Tire & Auto</RedBackgroundHeading>
+      <RedBackgroundHeading>About Mimidas Tire & Auto</RedBackgroundHeading>
       <Container style={{ padding: "2rem 0" }}>
         {pageContent &&
           pageContent.contents &&
@@ -31,7 +31,7 @@ const About = () => {
               return <Heading>{content.content}</Heading>;
           })}
         {/* <Para>
-          Welcome to Acorn Tire & Auto, your premier choice for comprehensive
+          Welcome to Mimidas Tire & Auto, your premier choice for comprehensive
           auto services and tire solutions in Michigan. Our goal is to ensure
           your utmost satisfaction by providing unparalleled value for your
           investment. We pride ourselves on offering top-notch service,
@@ -46,21 +46,21 @@ const About = () => {
           to us.
           <br />
           <br />
-          Thank you for choosing Acorn Tire & Auto, where your automotive needs
+          Thank you for choosing Mimidas Tire & Auto, where your automotive needs
           are our priority.
         </Para>
         <Heading>RELIABLE SERVICES YOU CAN COUNT ON</Heading>
         <Para>
           When it comes to reliable and convenient auto service or tire service,
-          look no further than Acorn Tire & Auto. Our dedicated team of expert
+          look no further than Mimidas Tire & Auto. Our dedicated team of expert
           technicians is committed to providing efficient solutions, ensuring
           that you can get back on the road swiftly. With our prompt service,
           you can trust us to take care of all your automotive and tire needs.
-          Visit us today and experience the difference at Acorn Tire & Auto!
+          Visit us today and experience the difference at Mimidas Tire & Auto!
         </Para>
         <Heading>EXPERT AUTO REPAIR SERVICES</Heading>
         <Para>
-          As the premier auto repair shops serving Michigan, Acorn Tire & Auto
+          As the premier auto repair shops serving Michigan, Mimidas Tire & Auto
           is dedicated to providing top-notch automotive repair and mechanic
           services. Our highly qualified mechanics possess the expertise to
           handle a wide range of automotive repairs, utilizing state-of-the-art
@@ -74,7 +74,7 @@ const About = () => {
           demonstrating our commitment to meeting the unique needs of our
           customers. Our mechanics consistently uphold superior standards,
           always keeping your best interests in mind. If you're seeking a
-          one-stop automotive repair shop, look no further than Acorn Tire &
+          one-stop automotive repair shop, look no further than Mimidas Tire &
           Auto. Our experienced mechanics are ready to provide you with a
           reliable estimate for any automotive repair issue you may be facing
         </Para>
@@ -86,19 +86,19 @@ const About = () => {
           to experience our exceptional service firsthand.
         </Para> */}
         {/* <Heading>
-          Acorn Tire & Auto: Nurturing Growth and Providing Opportunity
+          Mimidas Tire & Auto: Nurturing Growth and Providing Opportunity
         </Heading>
         <Para>
-          Acorn Tire & Auto draws its inspiration from the remarkable journey of
-          the mighty oak tree. Just like the oak tree begins as a small acorn,
+          Mimidas Tire & Auto draws its inspiration from the remarkable journey of
+          the mighty oak tree. Just like the oak tree begins as a small Mimidas,
           we believe that every vehicle and every customer has the potential for
           growth and prosperity. Our goal is to cultivate that potential by
           offering exceptional service and creating a positive impact within our
           community.
         </Para>
         <Para>
-          Similar to the acorn's transformation into a sturdy oak tree with
-          sprawling branches, Acorn Tire & Auto strives to provide a strong
+          Similar to the Mimidas's transformation into a sturdy oak tree with
+          sprawling branches, Mimidas Tire & Auto strives to provide a strong
           foundation for your automotive needs. We aim to be the solid ground
           upon which your vehicle can thrive, just as the oak tree becomes a
           symbol of strength and reliability. Our team of dedicated

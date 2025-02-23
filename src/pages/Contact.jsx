@@ -61,7 +61,7 @@ const Contact = () => {
     }
     setDisableAll(true);
     const formData = new FormData(contactForm.current);
-    formData.append("heading", "New email for Acorn Tire & Auto");
+    formData.append("heading", "New email for Mimidas Tire & Auto");
     formData.append("template", "contact");
     formData.append("submissionEmail", currentStoreLocation?.email);
     submitEmail(
@@ -82,7 +82,7 @@ const Contact = () => {
       <RedBackgroundHeading>Contact Us</RedBackgroundHeading>
       <Container>
         <AddressSection>
-          <FindUsLinkItem>Acorn Tire & Auto</FindUsLinkItem>
+          <FindUsLinkItem>Mimidas Tire & Auto</FindUsLinkItem>
           {/* <AddressPara>591 S Lapeer Road</AddressPara>
           <AddressPara>Lake Orion, MI 48362</AddressPara> */}
           {currentStoreLocation && (
