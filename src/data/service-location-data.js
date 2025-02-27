@@ -8,7 +8,7 @@ const serviceLocations = [
       "https://www.midas.com/store/mi/southgate/13252-eureka-road-48195/offers?shopnum=6295&v=lookup",
     financingLink:
       "https://www.midas.com/about-midas/midas-credit-card-service-financing?shopnum=6112",
-    facebookLink: "https://www.facebook.com/profile.php?id=#",
+    facebookLink: "https://www.facebook.com/profile.php?id=61555833287625",
     mapLink: "https://maps.app.goo.gl/pEX9tWB3unPXqLeT9",
     iframe:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2955.6927108241084!2d-83.18625569999999!3d42.19963740000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883b375d7d479eeb%3A0xbd69d22e546120ac!2s13252%20Eureka%20Rd%2C%20Southgate%2C%20MI%2048195%2C%20USA!5e0!3m2!1sen!2sng!4v1740554333708!5m2!1sen!2sng",
@@ -22,7 +22,7 @@ const serviceLocations = [
       "https://www.midas.com/store/mi/brighton/9810-e-grand-river-ave-48116/offers?shopnum=6626&v=lookup",
     financingLink:
       "https://www.midas.com/about-midas/midas-credit-card-service-financing?shopnum=6112",
-    facebookLink: "https://www.facebook.com/profile.php?id=#",
+    facebookLink: "https://www.facebook.com/profile.php?id=61566137919538",
     mapLink: "hhttps://maps.app.goo.gl/Xb8FUJ1UiLjnYmTe9",
     iframe:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2940.537084479973!2d-83.7689405!3d42.5226445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88234fe6bf19478b%3A0xe66229ef28df7fb4!2s9810%20E%20Grand%20River%20Ave%2C%20Brighton%2C%20MI%2048116%2C%20USA!5e0!3m2!1sen!2sng!4v1740554636733!5m2!1sen!2sng",
